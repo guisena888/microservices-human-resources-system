@@ -8,9 +8,9 @@ Projeto desenvolvido com o objetivo de entender a arquitetura e implementação 
 * Eureka Server: Service Discovery e Registry dos microsserviços.
 
 ## Tecnologias utilizadas:
-* Spring Boot;
-* Spring Cloud Netflix OSS;
-* Spring Data JPA;
+* Spring Boot
+* Spring Cloud Netflix OSS
+* Spring Data JPA
 * Eureka Server
 * Feign Client
 * Maven
