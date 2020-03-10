@@ -27,6 +27,15 @@ public class Vaga {
 		super();
 	}
 
+	public Vaga(String titulo, String descricao, Nivel nivel, BigDecimal salario, Long idCandidatoPreSelecionado) {
+		this.titulo = titulo;
+		this.descricao = descricao;
+		this.nivel = nivel;
+		this.salario = salario;
+		this.idCandidatoPreSelecionado = idCandidatoPreSelecionado;
+	}
+
+
 	public Long getId() {
 		return id;
 	}

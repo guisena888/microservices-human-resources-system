@@ -1,13 +1,13 @@
-package com.gsenas.candidato;
+package com.gsenas.processo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CandidatoApplication {
+public class ProcessoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CandidatoApplication.class, args);
+		SpringApplication.run(ProcessoApplication.class, args);
 	}
 
 }
